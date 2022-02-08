@@ -30,6 +30,9 @@ dependencies:
   flutter:
     sdk: flutter
   google_fonts: ^2.1.0
+  intl:
+  flutter_svg: ^0.20.0-nullsafety.3
+  transformer_page_view: ^0.1.6
 
 
 
